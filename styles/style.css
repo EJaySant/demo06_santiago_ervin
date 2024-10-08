@@ -1,1 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
+.bg-info { 
+    background-color: #BEA57D !important;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #A52422;
+    border-color: #080F0F
+}
+
+.navbar-light .navbar-brand {
+    font-family: "Raleway", Arial, sans-serif;
+}
+
+body {
+    background-color: #EFF2C0;
+}
